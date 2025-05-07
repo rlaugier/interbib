@@ -21,10 +21,12 @@ Basic references
 * Huber PA, Dannert FA, Laugier R, et al (2024) Analytical and numerical instrumental noise simulations for the Large Interferometer For Exoplanets (LIFE). Proc of SPIE 13095:130951F. [link](https://doi.org/10.1117/12.3018644)
 * Ito T, Izumi K, Kawano I, et al (2025) SILVIA: Ultra-precision formation flying demonstration for space-based interferometry
 * Jørgensen FE, Joergensen PS, Joergensen JL (2023) High Accuracy Navigation Cameras and seamless operations. 2023:P23D-3079
+* Klinner-Teo T, Martinod M-A, Tuthill P, et al (2022) Achromatic design of a photonic tricoupler and phase shifter for broadband nulling interferometry
 * Konrad BS, Alei E, Quanz SP, et al (2022) Large Interferometer For Exoplanets (LIFE). III. Spectral resolution, wavelength range, and sensitivity requirements based on atmospheric retrieval analyses of an exo-Earth. A&A 664:A23. [link](https://doi.org/10.1051/0004-6361/202141964)
 * Koresko C, Colavita MM, Serabyn E, et al (2006) Water vapor measurement and compensation in the near- and mid-infrared with the Keck Interferometer Nuller. Advances in Stellar Interferometry 6268:626817. [link](https://doi.org/10.1117/12.672434)
 * Koresko C, Mennesson B, Serabyn E, et al (2003) Longitudinal dispersion control for the Keck Interferometer Nuller. In: Proc of SPIE
 * Laugier R, Cvetojevic N, Martinache F (2020) Kernel nullers for an arbitrary number of apertures. A&A 642:A202. [link](https://doi.org/10.1051/0004-6361/202038866)
+* Laugier R, Martinod M-A, Huber P, et al (2024) NIFITS: building a new data standard to enable the rise of nulling interferometry. pp 207–211
 * Lay O, Jeganathan M, Peters R (2003) ADAPTIVE NULLING: A NEW TOOL FOR INTERFEROMETRIC EXO-PLANET DETECTION. ESA Special Publication
 * Lay OP (2006) Removing instability noise in nulling interferometers. In: Monnier JD, Schöller M, Danchi WC (eds). Orlando, Florida , USA, p 62681A
 * Lay OP (2005) Imaging properties of rotating nulling interferometers. Applied Optics 44:5859–5871. [link](https://doi.org/10.1364/AO.44.005859)
@@ -42,4 +44,5 @@ Basic references
 * Wade S, Hansen JT, Ireland MJ, et al (2022) The Pyxis Interferometer (II): control system, telescope and mechanical design. In: Mérand A, Sallum S, Sanchez-Bermudez J (eds) Optical and Infrared Interferometry and Imaging VIII. SPIE, Montréal, Canada, p 49
 * Xin Y, Echeverri D, Jovanovic N, et al (2025) Implicit Electric Field Conjugation with the Photonic Lantern Nuller
 * Xin Y, Echeverri D, Jovanovic N, et al (2024) Laboratory demonstration of a Photonic Lantern Nuller in monochromatic and broadband light. J Astron Telesc Instrum Syst 10:. [link](https://doi.org/10.1117/1.JATIS.10.2.025001)
- 
+
+
